@@ -1,0 +1,7 @@
+{
+  "name": "gatsby-theme-starter",
+  "version": "1.0.0",
+  "main": "gatsby-config.js",
+  "license": "MIT",
+  "private": true
+}
