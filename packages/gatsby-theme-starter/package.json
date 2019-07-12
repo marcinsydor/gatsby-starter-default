@@ -3,5 +3,6 @@
   "version": "1.0.0",
   "main": "gatsby-config.js",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "files": ["gatsby-confing.js"]
 }

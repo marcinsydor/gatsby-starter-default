@@ -1,7 +1,7 @@
 import { graphql } from "gatsby"
 import React from "react"
 
-const HomePage = ({ data }) => {
+export default ({ data }) => {
   return <div>{data.site.siteMetadata.description}</div>
 }
 
